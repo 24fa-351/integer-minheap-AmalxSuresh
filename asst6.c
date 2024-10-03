@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#include "heap.h"
+#include "some_heap.h"
 
 /*
 Assignment 5: integer minheap
